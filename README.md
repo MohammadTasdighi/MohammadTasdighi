@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MohammadTasdighi
 
 
-  ❤ bug  & python ❤
+  ❤ bug hunter & python ❤
